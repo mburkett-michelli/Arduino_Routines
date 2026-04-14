@@ -1,0 +1,12 @@
+When using the Serial Shield there is a switch
+
+The two positions are :  UART - Software
+
+Software = The USB will be used for all Serial data
+
+UART = The Serial 9 pin port will be used for all Serial Data
+
+Unit must be powered off if you change the switch position
+
+Commands used are SERIAL. as it uses the default serial port.
+

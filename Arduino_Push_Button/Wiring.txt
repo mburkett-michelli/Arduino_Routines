@@ -1,0 +1,11 @@
+PLDuino wiring:
+
+Digital In:
+Negative from 12vdc to COM
++12vDC through 120VAC Relay Common-NO Contact to D37
++12vDC through Push Button to D36
+
+RS-232 9pin to RS232 on PLDuino:
+Female Pin2 to TXD
+Female Pin3 to RXD
+Female Pin5 to GND

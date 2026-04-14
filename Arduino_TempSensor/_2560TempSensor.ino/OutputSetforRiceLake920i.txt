@@ -1,0 +1,2 @@
+I have commented out the commands used in the example.
+This will output a string that a 920i can pick up

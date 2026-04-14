@@ -1,0 +1,12 @@
+Can be powered with USB.  I prefer to use external power source.
+Connection should be 7 to 12 VDC range for the barrel connector.
+
+For serial connections hook in serial board.
+When uploading a program make sure serial board switch is in the OFF position.
+You have to power cycle after making this selection.
+
+To use the serial port hat you must have the serial card switch in the ON position
+
+To upload a program always use the USB cable.  When its connected it should come up
+on the com port list of the Arduino IDE and identify the type of arduino board its connected
+to once that has been setup in the sketch.
